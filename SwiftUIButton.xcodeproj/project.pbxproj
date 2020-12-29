@@ -11,6 +11,7 @@
 		483CDBC825988C5100893B49 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 483CDBC725988C5100893B49 /* ContentView.swift */; };
 		483CDBCA25988C5200893B49 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 483CDBC925988C5200893B49 /* Assets.xcassets */; };
 		483CDBCD25988C5200893B49 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 483CDBCC25988C5200893B49 /* Preview Assets.xcassets */; };
+		483CDBD6259B290E00893B49 /* Excercise.swift in Sources */ = {isa = PBXBuildFile; fileRef = 483CDBD5259B290E00893B49 /* Excercise.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		483CDBC925988C5200893B49 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		483CDBCC25988C5200893B49 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		483CDBCE25988C5200893B49 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		483CDBD5259B290E00893B49 /* Excercise.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Excercise.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				483CDBC525988C5100893B49 /* SwiftUIButtonApp.swift */,
 				483CDBC725988C5100893B49 /* ContentView.swift */,
+				483CDBD5259B290E00893B49 /* Excercise.swift */,
 				483CDBC925988C5200893B49 /* Assets.xcassets */,
 				483CDBCE25988C5200893B49 /* Info.plist */,
 				483CDBCB25988C5200893B49 /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				483CDBC825988C5100893B49 /* ContentView.swift in Sources */,
+				483CDBD6259B290E00893B49 /* Excercise.swift in Sources */,
 				483CDBC625988C5100893B49 /* SwiftUIButtonApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
